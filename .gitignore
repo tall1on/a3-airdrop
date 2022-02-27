@@ -1,0 +1,6 @@
+.vscode/
+.prettierrc
+*.pbo
+*.Enoch
+.idea/
+*.iml

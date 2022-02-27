@@ -1,0 +1,14 @@
+place pseudo object for script usage:
+dg_airdrop_obj (i usally place at spawn island)
+
+place hidden markers for airdrop positions:
+airdrop_1
+airdrop_2
+airdrop_3
+airdrop_4
+airdrop_5
+airdrop_6
+airdrop_7
+airdrop_8
+airdrop_9
+airdrop_10
